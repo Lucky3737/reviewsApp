@@ -1,0 +1,13 @@
+.review-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+.lists {
+  list-style-type: none;
+}
+.descripation {
+  text-align: center;
+  width: 30%;
+}
